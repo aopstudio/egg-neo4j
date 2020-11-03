@@ -1,9 +1,9 @@
 {
-  "name": "egg-neo4j",
+  "name": "egg-neo4j-tool",
   "version": "1.0.3",
   "description": "Neo4J plugin for egg framework",
   "eggPlugin": {
-    "name": "neo4j"
+    "name": "neo4j-tool"
   },
   "keywords": [
     "egg",
@@ -12,7 +12,7 @@
     "neo4j"
   ],
   "dependencies": {
-    "neo4j-driver": "^1.6.1"
+    "neo4j-driver": "^4.1.2"
   },
   "devDependencies": {
     "autod": "^3.0.1",
