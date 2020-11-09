@@ -22,7 +22,7 @@ Neo4j for egg framework.
 ## Install
 
 ```bash
-$ npm i egg-neo4j --save
+$ npm i egg-neo4j-tool --save
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ $ npm i egg-neo4j --save
 // {app_root}/config/plugin.js
 exports.neo4j = {
   enable: true,
-  package: 'egg-neo4j',
+  package: 'egg-neo4j-tool',
 };
 ```
 
@@ -43,7 +43,7 @@ exports.neo4j = {
   client: {
     url: 'bolt://127.0.0.1',
     username: 'neo4j',
-    password: 'admin',
+    password: 'neo4j',
   },
 };
 ```
@@ -69,7 +69,7 @@ async function all() {
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/cemremengu/egg-neo4j/issues).
+Please open an issue [here](https://github.com/aopstudio/egg-neo4j/issues).
 
 PRs welcome!
 
