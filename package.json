@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cemremengu/egg-neo4j.git"
+    "url": "git+https://github.com/aopstudio/egg-neo4j.git"
   },
   "bugs": {
-    "url": "https://github.com/cemremengu/egg-neo4j/issues"
+    "url": "https://github.com/aopstudio/egg-neo4j/issues"
   },
-  "homepage": "https://github.com/cemremengu/egg-neo4j#readme",
+  "homepage": "https://github.com/aopstudio/egg-neo4j#readme",
   "author": "Cemre Mengu",
   "license": "MIT"
 }

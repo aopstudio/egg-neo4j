@@ -15,7 +15,7 @@
 [snyk-image]: https://snyk.io/test/npm/egg-neo4j/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-neo4j
 [download-image]: https://img.shields.io/npm/dm/egg-neo4j.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-neo4j
+[download-url]: https://npmjs.org/package/egg-neo4j-tool
 
 Neo4j for egg framework.
 
