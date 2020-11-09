@@ -1,4 +1,4 @@
-# egg-neo4j
+# egg-neo4j-tool
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -7,7 +7,7 @@
 [![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/egg-neo4j.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-neo4j
+[npm-url]: https://npmjs.org/package/egg-neo4j-tool
 [travis-image]: https://img.shields.io/travis/cemremengu/egg-neo4j.svg?style=flat-square
 [travis-url]: https://travis-ci.org/cemremengu/egg-neo4j
 [david-image]: https://img.shields.io/david/cemremengu/egg-neo4j.svg?style=flat-square
